@@ -1,7 +1,5 @@
 # Parts of speech for tokens.
 
-Words for Dave.
-
 These are the instructions. If you have any problems, please let me know. 
 
 1. Install Python 3 on Mac: 
