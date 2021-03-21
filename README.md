@@ -8,7 +8,7 @@ Check first this: https://docs.python-guide.org/starting/install3/osx/
 If you have python 3 then stop here. 
 Otherwise follow these steps: https://docs.python.org/3/using/mac.html  
 
-2. Open the terminal and create the code: `mkdir code`
+2. Open the terminal and create the directory code: `mkdir code`. Go to the new directory: `cd code`.
 3. Download my code: `git clone https://github.com/adam-dziedzic/words.git` and go to the code: `cd words`
 4. Install libraries: `pip install nltk`
 5. Execute: `python download.py`
