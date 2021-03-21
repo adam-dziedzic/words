@@ -25,9 +25,9 @@ a,DT
 text,NN
 ```
 
-3. License: NLTK library has Apache 2.0 License: https://github.com/nltk/nltk/blob/develop/LICENSE.txt
+7. License: NLTK library has Apache 2.0 License: https://github.com/nltk/nltk/blob/develop/LICENSE.txt
 
-7. Help:
+8. Help:
 
 ```
 python words.py -h
