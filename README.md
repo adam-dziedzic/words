@@ -44,7 +44,7 @@ optional arguments:
                         Tokens to be omitted.
 ```
 
-### The list of POS tags is as follows, with examples of what each POS stands for.
+### The list of parts of speech (POS) tags is as follows, with examples of what each POS stands for.
 ```
     CC coordinating conjunction
     CD cardinal digit
